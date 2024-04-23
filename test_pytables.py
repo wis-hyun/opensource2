@@ -13,3 +13,4 @@ class TestPandasPytables(unittest.TestCase):
         assert_frame_equal(want, got)
 
 print("successful!!")
+print("figthing")
